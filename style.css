@@ -90,3 +90,23 @@ footer{
 	text-shadow: -3px -3px 3px black, 3px -3px 3px black, -3px 3px 3px black, 3px 3px 3px black;
 	text-align: center;
 }
+/* MODAL */
+.imagenesModal {
+	height: 95px;
+	width: 90px;
+	border-radius: 5%;
+}
+
+.inputCuenta {
+	max-width: 49px;
+}
+
+.table-image {
+	vertical-align: middle;
+	text-align: center;
+}
+
+.precioTotal {
+	margin-top: 20px;
+	margin-right: 20px;
+}
